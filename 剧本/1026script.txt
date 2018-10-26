@@ -1,2 +1,2 @@
-test git script 1026
-
+delet original txt
+add some new words
